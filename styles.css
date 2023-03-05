@@ -1,2 +1,9 @@
+table tr td:first-child {
+  font-weight:bold;
+}
+tbody tr:last-child {
+  text-align: right;
+}
+
 
 /* Your CSS Code here. */
